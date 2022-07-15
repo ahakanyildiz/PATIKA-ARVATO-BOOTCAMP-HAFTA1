@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PAT-ARV COMPUTER  AUTOMATION/1.0.0": {
+        "runtime": {
+          "PAT-ARV COMPUTER  AUTOMATION.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PAT-ARV COMPUTER  AUTOMATION/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
